@@ -32,5 +32,6 @@ public class StringExamples{
       String up = s.toUpperCase();
       System.out.println(t);
       System.out.println(lo);
-    }
+      System.out.println(up);
+      System.out.println(s);
   }
