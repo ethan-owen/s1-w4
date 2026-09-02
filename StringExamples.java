@@ -26,7 +26,7 @@ public class StringExamples{
 
     } 
     public void testString(){
-      String s = "   Sean.  ";
+      String s = "   Sean. ";
       String t = s.trim();
       String lo = s.toLowerCase();
       String up = s.toUpperCase();
