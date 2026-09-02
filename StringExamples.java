@@ -34,4 +34,5 @@ public class StringExamples{
       System.out.println(lo);
       System.out.println(up);
       System.out.println(s);
-  }
+    }
+}
